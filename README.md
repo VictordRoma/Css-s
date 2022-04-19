@@ -1,2 +1,2 @@
-# Style-1
-Foi retirado do canal "DarkCode" porem eu alterei algumas coisas, consiste basicamente em estilizar o site.
+# Estilos Css
+Bom todos os css que eu acho por ai e curto eu coloco por aqui
